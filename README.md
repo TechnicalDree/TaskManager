@@ -43,6 +43,9 @@ Before running this app, make sure you have:
    # If using git
    git clone <repository-url>
    cd TaskManager
-   
-   # Or if you received the code files
-   # Extract to a folder named TaskManager
+   npm install
+   npm start
+
+
+## Deployed Web Link
+https://task-manager-eb4dl17w1-adrians-projects-cc1c0ea3.vercel.app
