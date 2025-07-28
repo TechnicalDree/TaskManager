@@ -4,13 +4,13 @@ A simple and intuitive Task Manager application built with React Native and Expo
 
 ## Features
 
-- Add tasks: Create new tasks with descriptive text
-- Mark complete: Tap the checkbox to mark tasks as completed
-- Delete tasks: Remove tasks with confirmation dialog
-- Task statistics: View progress with completion counter
-- Visual feedback: Clear visual distinction between completed and incomplete tasks
-- Empty state: Friendly message when no tasks exist
-- Responsive design: Clean, modern UI that works on all screen sizes
+- **Add tasks**: Create new tasks with descriptive text
+- **Mark complete**: Tap the checkbox to mark tasks as completed
+- **Delete tasks**: Remove tasks with confirmation dialog
+- **Task statistics**: View progress with completion counter
+- **Visual feedback**: Clear visual distinction between completed and incomplete tasks
+- **Empty state**: Friendly message when no tasks exist
+- **Responsive design**: Clean, modern UI that works on all screen sizes
 
 ## Screenshots
 
